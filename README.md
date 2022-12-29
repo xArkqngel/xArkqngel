@@ -13,7 +13,7 @@ Contact me:
 I am interested in learning new front-end technologies. I like web development.
 
 
-## ⚡ Technologies
+## ⚡ What i use
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript)

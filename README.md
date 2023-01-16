@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-Hi! I'm Miguel Rubiano, currently studying computer and systems engineering.
+Hi! I'm Miguel Rubiano, currently focused on frontend dev.
 <br>
 <br>
 Contact me:

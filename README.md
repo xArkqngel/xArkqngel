@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-Hi! I'm Miguel Rubiano, currently focused on frontend dev.
+Hi! I'm Miguel Rubiano, currently interested in learning new front-end technologies. I like web development.
 <br>
 <br>
 Contact me:
@@ -8,9 +8,6 @@ Contact me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelcontreras3/)](https://www.linkedin.com/in/miguelcontreras3/)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arkqngel343@gmail.com)](mailto:arkqngel343@gmail.com)
 <br>
-## 🔎 About
-
-I am interested in learning new front-end technologies. I like web development.
 
 
 ## ⚡ What i use

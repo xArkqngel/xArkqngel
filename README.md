@@ -15,7 +15,7 @@ Contact me:
 
 Portfolio:
 
-[![Linkedin Badge](https://skillicons.dev/icons?i=astro)]([https://www.linkedin.com/in/miguelcontreras3/](https://fanciful-cajeta-aebe9d.netlify.app/))
+[![Astro Badge](https://skillicons.dev/icons?i=astro)](https://fanciful-cajeta-aebe9d.netlify.app/)
 <br>
 
 

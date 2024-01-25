@@ -13,6 +13,11 @@ Contact me:
 [![Linkedin Badge](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/miguelcontreras3/)
 <br>
 
+Portfolio:
+
+[![Linkedin Badge](https://skillicons.dev/icons?i=astro)]([https://www.linkedin.com/in/miguelcontreras3/](https://fanciful-cajeta-aebe9d.netlify.app/))
+<br>
+
 
 ## ⚡What i use
 

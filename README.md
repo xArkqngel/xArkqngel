@@ -15,7 +15,7 @@ Contact me:
 
 Portfolio:
 
-[![Astro Badge](https://skillicons.dev/icons?i=astro)](https://fanciful-cajeta-aebe9d.netlify.app/)
+[![Astro Badge](https://skillicons.dev/icons?i=astro)](https://xark-portfolio.netlify.app/)
 <br>
 
 

@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=xArkqngel" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&color=CC07F7&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Miguel+Rubiano!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Miguel+Rubiano!;" />
 </h1>
 
 <h3 align="center">A Systems Engineer from Colombia 🇨🇴</h3>
@@ -43,10 +43,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=xArkqngel&show_icons=true&theme=synthwave"/>
-  <img src="https://streak-stats.demolab.com?user=xArkqngel&theme=synthwave&exclude_days=Sun%2CSat"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xArkqngel&show_icons=true&theme=swift"/>
+  <img src="https://streak-stats.demolab.com?user=xArkqngel&theme=swift&exclude_days=Sun%2CSat"/>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xArkqngel&hide=HTML&langs_count=8&layout=compact&theme=synthwave&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xArkqngel&hide=HTML&langs_count=8&layout=compact&theme=swift&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
